@@ -1,7 +1,7 @@
 Province,Infected Cases ,Death Cases,
-Ha Noi Province,1.646.923,1.232,2
-Tp. Ho Chi Minh Province,629.018,19.985,3
-Hai Phong Province,537.527,138,5
+Ha Noi City,1.646.923,1.232,2
+Ho Chi Minh City,629.018,19.985,3
+Hai Phong City,537.527,138,5
 Nghe An Province,502.049,145,11
 Bac Giang Province,391.44,92,0
 Vinh Phuc Province,375.686,19,0
@@ -30,7 +30,7 @@ Ha Giang Province,122.61,80,0
 Khanh Hoa Province,122.036,364,4
 Binh Phuoc Province,120.003,224,1
 Ba Ria - Vung Tau Province,110.822,497,2
-Da Nang Province,108.712,338,0
+Da Nang City,108.712,338,0
 Dong Nai Province,107.518,1.903,0
 Ninh Binh Province,104.8,93,0
 Vinh Long Province,103.505,829,0
@@ -41,7 +41,7 @@ Ha Nam Province,91.467,65,3
 Dien Bien Province,90.757,23,26
 Quang Tri Province,86.293,38,3
 Bac Kan Province,77.048,19,2
-Can Tho Province,76.925,958,0
+Can Tho City,76.925,958,0
 Lai Chau Province,75.519,0,1
 Tra Vinh Province,75.174,115,0
 Dak Nong Province,73.427,47,0
